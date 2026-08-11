@@ -1,5 +1,9 @@
 {
   "active": [],
   "history": [],
-  "daily_ranges": {}
+  "daily_ranges": {},
+  "settings": {
+    "telegram_alerts": true
+  },
+  "last_scan": null
 }
