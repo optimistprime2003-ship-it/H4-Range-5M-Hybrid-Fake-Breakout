@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 RANGE_PAIRS = [
     "EUR/USD",
     "AUD/USD",
-    "ETHUSD"
+    "ETH/USD"
     
 
 ]
