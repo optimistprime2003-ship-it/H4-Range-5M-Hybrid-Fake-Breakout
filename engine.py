@@ -12,7 +12,9 @@ from datetime import datetime, timedelta
 
 RANGE_PAIRS = [
     "EUR/USD",
-    "AUD/USD"
+    "AUD/USD",
+    "ETH/USD",
+    "BTC/USD"
 ]
 
 NY_SESSION_START = "09:00:00"
